@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+mi proyecto recibe una señal de pulsos y saca una secuencia de 3 bits 
 
 ## How to test
 
-Explain how to use your project
+hay que conectar 4 leds a una salida (out0- out3) y una señal de reloj a la entrada 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+leds, dos interruptores y una entrada de pulsos 
